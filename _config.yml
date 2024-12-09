@@ -21,14 +21,15 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  avatar           : "图片.png"
+  name             : "Haohua Tian"
+  pronouns         : "he"# example: 
+  bio              : "MSc student major in Statistical Data Science in the University of Birmingham"
+  location         : "United Kingdom,Birmingham"
+  University       : "University of Birmingham"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "19965139628@163.com" 
+  email            : "HXT464@student.bham.ac.uk"
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
@@ -44,7 +45,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "https://github.com/HaohuaTian"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
