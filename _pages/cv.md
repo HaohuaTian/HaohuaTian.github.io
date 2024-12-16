@@ -13,21 +13,23 @@ Education
 ======
 * M.S. in Statistical Data Science, University of Birmingham, 2024.09-present
 * B.S. in Computer Science(Big Data Direction), Anhui Jianzhu University, 2020.09-2024.06
-* Summer School, University of Science and Technology of China, Anhui, China 07/2023
+* Summer School, University of Science and Technology of China, Anhui, China， 07/2023
   Studied academic reports on the cutting edge of computer graphics, focusing mainly on hot topics such as computer graphics, computer vision, machine learning,
   artificial intelligence, etc.
-* Personal interest area:Machine Learning, Deep Learning, Foundation Model, Nerual Network
+* Personal interest area: Machine Learning, Deep Learning, Foundation Model, Nerual Network
   
 Activity Attended
 ======
-CSIAM GDC Symposium on Geometric Computing, University of Science and Technology of China 06/2024
+CSIAM GDC Symposium on Geometric Computing, University of Science and Technology of China， 06/2024
 
 Research Experience & Internship Experience
 ======
 * Onsite & remote intern student, Hefei Institute of Materials Science, Chinese Academy of Sciences
   Read research papers from the reserach group (Object detecion direction)
+  1.Analysed and preprocessed data set of categories of urine sediment cells (such as eryth, speryth, reryth, sheryth, beryth, etc), We create the dataset called
+  Urised 2022 (containing 36 categories of urine sediment) 
+  2.Calculating the RelativeScale of every category.
   
-
 Work experience
 ======
 * Spring 2024: Academic Pages Collaborator
@@ -47,11 +49,11 @@ Work experience
   
 Skills
 ======
-* C language(proficient), C++ language(proficient),Python(proficient),Matlab(proficient),Tensorflow framework(proficient),Pytorch framework(proficient)
+* C language(proficient), C++ language(proficient), Python(proficient), Matlab(proficient), Tensorflow framework(proficient), Pytorch framework(proficient)
 
 Languages
 ======
-* English(proficient),IEITS:6.0(Reading:7.5),* Mandarin(native)
+* English(proficient), IEITS:6.0(Reading:7.5), Mandarin(native)
 
 Publications
 ======
