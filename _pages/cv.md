@@ -26,11 +26,12 @@ Research Experience & Internship Experience
 ======
 * Onsite & remote intern student, Hefei Institute, Chinese Academy of Sciences, 2022-2023
 * Read research papers from the reserach group (Object detecion direction)
-* 1.Analysed and preprocessed data set of categories of urine sediment cells (such as eryth, speryth, reryth, sheryth, beryth, etc), We create the dataset called
+  * 1.Analysed and preprocessed data set of categories of urine sediment cells (such as eryth, speryth, reryth, sheryth, beryth, etc), We create the dataset called
   Urised 2022 (containing 36 categories of urine sediment)
-* 2.Calculating the RelativeScale of every category.
-* Onsite & remote intern student, Anhui Jianzhu University, School of Eelectronic and Information, 2022.07-2023.02
-Work experience
+  * 2.Calculating the RelativeScale of every category.
+* Onsite & remote intern student, Anhui Jianzhu University, School of Eelectronic and Information, 2022.07-2023.02Work experience
+
+Research Experience & Internship Experience
 ======
 * Spring 2024: Academic Pages Collaborator
   * Github University
