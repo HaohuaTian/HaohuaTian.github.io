@@ -29,7 +29,7 @@ Research Experience & Internship Experience
   1.Analysed and preprocessed data set of categories of urine sediment cells (such as eryth, speryth, reryth, sheryth, beryth, etc), We create the dataset called
   Urised 2022 (containing 36 categories of urine sediment) 
   2.Calculating the RelativeScale of every category.
-  
+
 Work experience
 ======
 * Spring 2024: Academic Pages Collaborator
