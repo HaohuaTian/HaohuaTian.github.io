@@ -8,7 +8,7 @@ redirect_from:
 ---
 Self-Introduction
 ======
-I'm a MSc Statistical Data Science student from [School of Mathmatics](https://www.birmingham.ac.uk/schools/mathematics), [University of Birmingham](https://www.birmingham.ac.uk/). My research interest includes machine learning, deep learning, foundation model, neural network, brain-inspired intelligence.Brfore I steping to postgraduate study, I got my bachelor's degree from  [School of Electronic and Information](https://www.ahjzu.edu.cn/dxxy/), [Anhui Jianzhu University](https://www.ahjzu.edu.cn/).And my major is Computer Science (Big Data Direction).This is my [Github page](https://github.com/HaohuaTian).I have my own PMC rule.(Passion,Motivation,Curiosity).I believe growth mindset!
+I'm a MSc Statistical Data Science student from [School of Mathmatics](https://www.birmingham.ac.uk/schools/mathematics), [University of Birmingham](https://www.birmingham.ac.uk/). My research interest includes machine learning, deep learning, foundation model, neural network, brain-inspired intelligence.Before I steping to postgraduate study, I got my bachelor's degree from  [School of Electronic and Information Engineering](https://www.ahjzu.edu.cn/dxxy/), [Anhui Jianzhu University](https://www.ahjzu.edu.cn/).And my major is Computer Science (Big Data Direction).This is my [Github page](https://github.com/HaohuaTian).I have my own PMC rule.(Passion,Motivation,Curiosity).I believe growth mindset!
 During my free time,I like singing songs,watching movies,and photography.
 
 Getting started
