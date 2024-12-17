@@ -19,6 +19,10 @@ redirect_from:
 * Currently here are the main elements of my undergraduate thesis
 * In the future, there will be a record of my academic publications
 
+## Talks
+* This is a showcase of the presentations I've given, which will be on a wide range of topics, from academics to personal experience sharing.
+
+
 ## Resources
  * [Liquid syntax guide](https://shopify.github.io/liquid/tags/control-flow/)
  * [MathJax Documentation](https://docs.mathjax.org/en/latest/)
