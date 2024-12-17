@@ -1,20 +1,11 @@
 ---
-title: "Teaching experience 1"
+title: "Advanced Mathematics Sharing Session"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "Advanced Mathematics Sharing Session"
+permalink: /teaching/2024-spring-teaching-1
+venue: "Anhui Jianzhu University"
+date: 2022-12-03
+location: "Hefei, China"
 ---
+In this sharing session, I share some of my personal methods and tips for learning higher math. Meanwhile, based on my personal understanding, I introduced the learning framework and system of university mathematics. Next, I explained some key topics, the calculation of limits, the calculation of derivatives and differentiation, the definition and calculation of integrals and so on.
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
