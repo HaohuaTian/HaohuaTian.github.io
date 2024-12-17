@@ -50,7 +50,7 @@ Honors & Scholarship
 
 Skills
 ======
-* Mathematical skills:Advanced Mathematics, Linear Algebra, Probability Theory and Mathematical Statistics, Functions of a Complex Variable and Integral Transforms
+* Mathematical skills:Advanced Mathematics, Linear Algebra, Probability Theory and Mathematical Statistics, Functions of a Complex Variable and Integral Transforms, Applied Statistics
 * Programming skills: C language(proficient), C++ language(proficient), Python(proficient), Matlab(proficient), R (proficient), Tensorflow framework(proficient), Pytorch framework(proficient)
 
 Languages
